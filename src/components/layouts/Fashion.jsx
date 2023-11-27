@@ -34,19 +34,19 @@ const Fashion = () => {
           <Paragraph text="Founded" className="text-[28px] font-medium leading-none pt-7 ps-2" />
           </div>
           <div>
-          <Heading text="5000+" as="h4" className="font-Podkova text-mainHeading font-bold  leading-none relative after:content-[''] after:absolute after:h-[143px] after:w-[2px] after:bg-black after:top-[-5px] after:right-[-27px]" />
-          <Paragraph text="Product Sold" className="text-[28px] font-medium  leading-none pt-[28px]" />
+          <Heading text="5000+" as="h4" className="font-Podkova text-mainHeading font-bold leading-none relative after:content-[''] after:absolute after:h-[143px] after:w-[2px] after:bg-black after:top-[-5px] after:right-[-27px]" />
+          <Paragraph text="Product Sold" className="text-[28px] font-medium  leading-none pt-7" />
           </div>
           <div>
           <Heading text="4500+" as="h4" className="font-Podkova text-mainHeading font-bold leading-none" />
-          <Paragraph text="Best Reviews" className="text-[28px] font-medium  leading-none pt-[28px]" />
+          <Paragraph text="Best Reviews" className="text-[28px] font-medium  leading-none pt-7" />
           </div>
         </Flex>
           
       </div>
       <div className="relative">
       <picture>
-        <Image className="absolute bottom-[-150px] left-[200px] " src={Groupthree} alt="" />
+        <Image className="absolute bottom-[-150px] left-[200px]" src={Groupthree} alt="" />
       </picture> 
       </div>
       </Container>
