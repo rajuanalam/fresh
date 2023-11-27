@@ -26,7 +26,7 @@ const Navbar = () => {
             </ul>
           </div>
           <div className="w-1/4 text-right">
-            <Button text="Login" className="px-7  hover:bg-btnhover hover:border-btnhover duration-[0.5s]"/>
+            <Button text="Login" className="px-7 hover:bg-btnhover hover:border-btnhover duration-[0.5s]"/>
             
             <Button text="Sign up" className="px-3.5 ml-3  hover:bg-btnhover hover:border-btnhover duration-[0.5s]"/>
           </div>
